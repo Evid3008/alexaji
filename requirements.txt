@@ -25,3 +25,5 @@ youtube-search
 youtube-search-python
 flask
 gunicorn
+Pillow==9.0.1
+
